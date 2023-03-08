@@ -2,6 +2,7 @@
 
 Normaler Text hier.
 weiterer Text
+und noch viel mehr Text!
 
 	$ git config --global core.editor nano
 	
